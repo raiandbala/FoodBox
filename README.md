@@ -83,7 +83,7 @@ http://ec2-15-185-146-219.me-south-1.compute.amazonaws.com/
 
 ## How to run the program locally
 -	clone project
-```clone git : git clone https://github.com/raiandbala/FoodBox
+```clone git : git clone https://github.com/raiandbala/FoodBox``
 
 -	Import the “\Back-End\foodbox\database\foodbox.sql” file to your database administration tool.
 -	Go to “\Back-End\foodbox\src\main\resources\application.properties” file, open it.
