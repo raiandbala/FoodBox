@@ -112,5 +112,4 @@ http://ec2-15-185-146-219.me-south-1.compute.amazonaws.com/
 
 ![screenshot_1133](https://user-images.githubusercontent.com/64940728/133873673-2cc4f2a3-00c9-4484-839b-969534a0f57c.jpg)
 
-other screenshots can be found in the Documentation & Screenshots file
 
